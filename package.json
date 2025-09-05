@@ -20,7 +20,7 @@
     }
   },
   "dependencies": {
-    "@storefront-ui/vue": "^0.5.1",
+    "@storefront-ui/vue": "^2.6.5",
     "core-js": "^3.6.4",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.11",
